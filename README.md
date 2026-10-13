@@ -1,10 +1,6 @@
-# Reels-Maker
-Reels Maker is a Windows app for quickly creating and styling short videos for Reels, TikTok, and YouTube Shorts, making editing and preparing videos for publication easier.
-
-
 # Reels Maker
 
-**Версия 1.2.2 · Windows**
+**Версия 1.1.2 · Windows**
 
 Reels Maker — приложение для создания и оформления коротких видео для Reels, TikTok и YouTube Shorts. Помогает сократить время на монтаж и подготовить ролики к публикации.
 
@@ -47,3 +43,15 @@ Reels Maker — приложение для создания и оформлен
 Новости проекта и связь с автором: **[Telegram — @tokinnssoft](https://t.me/tokinnssoft)**.
 
 Если вы столкнулись с ошибкой, укажите версию программы, действия перед её появлением и текст ошибки. При необходимости приложите скриншот.
+
+## Исходники и сборка
+
+В этом репозитории опубликованы исходники доработок Reels Maker 1.1.2, тесты и сценарий сборки установщика. Это не полный исходный код приложения: часть базовых модулей используется из исходной PyInstaller-сборки ReelsMakerPro 1.0.0.
+
+Для пересборки необходимы исходный EXE и комплект библиотек приложения. Они не включены в этот репозиторий. Подробности — в [BUILD.md](BUILD.md).
+
+## Авторство и лицензия
+
+Исходная программа ReelsMakerPro: Copyright (c) 2026 Magerko. Исходный текст лицензии MIT сохранён в [LICENSE.txt](LICENSE.txt).
+
+Доработки и оформление Reels Maker — Tokinns Soft. Сторонние библиотеки и компоненты распространяются на условиях собственных лицензий.
